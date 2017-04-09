@@ -1,0 +1,1 @@
+Sources from Maven Central ([`jsr305-3.0.2-sources.jar`](https://search.maven.org/remotecontent?filepath=com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2-sources.jar)) for `com.google.cod.findbugs:jsr305`.
